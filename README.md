@@ -6,4 +6,4 @@ This script is used to execute operations on multiple servers via SSH using a pr
 ## Usage
 
 ```bash
-script.sh -f <server_list_file> -u <remote_user>
+server_health_check -f <server_list_file> -u <remote_user>
